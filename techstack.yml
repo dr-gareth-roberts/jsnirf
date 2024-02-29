@@ -1,0 +1,20 @@
+repo_name: dr-gareth-roberts/jsnirf
+report_id: a800a9611d95e0e3c2e4798721f2f656
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T18:27:23+00:00'
+requested_by: fangq
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/dr-gareth-roberts/jsnirf
+  detection_source: Repo Metadata
